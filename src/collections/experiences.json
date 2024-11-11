@@ -1,23 +1,23 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
-	},
-	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
+		"dates": "Jan 2020 - Oct 2023",
+		"role": "Director of Online Marketing",
+		"company": "SIA School of International Art",
+		"description": "Content Strategy: Spearheaded the comprehensive planning, distribution, operation, maintenance, and integrated marketing of a 37-account matrix for SIA International Art Education across various media platforms Content Development: Established content and topic repositories within the matrix, standardized content creation, resulting in a cumulative social media following of 1 million within one year Team Leadership: Managed the expansion and restructuring of the team from 3 to 10 members, overseeing assessments, performance evaluations, and the establishment of departmental structure Achievements: Orchestrated the collaborative operation of communities and online events, culminating in the successful signing of contracts totaling 3 million USD for the new media matrix throughout the year",
 		"logo": "/assets/images/experiences/yoho.ico"
 	},
 	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
+		"dates": "Apr 2017 - Feb 2020 ",
+		"role": "Manager of Online Marketing",
+		"company": "The Chinese Weekly",
+		"description": "• Content Development: Took charge of character interviews, in-depth writing, proofreading, and publishing of Chinese Weekly magazine in the UK • Event Development: Took charge of the content planning and supervision of Chinese Weekly on the network platform, including operation strategy formulation and media promotion channel planning research and analysis, collecting user feedback, monitoring data, and evaluating the quality, promotion effect, and cooperation effect of content products • Offline Operations: Planned cultural and creative travel products, cooperated with organizations such as London V&A Museum, British Museum, Tate Art Museum, Chinese Star Studio, and art best-selling authors for the event reached 10,000,000+ exposures • Planned and formulated detailed artistic and creative activities such as offline cooperation with Ullens Center for Contemporary Art and ABC Book Fair",
+		"logo": "/assets/images/experiences/wulian.ico"
+	},
+	{
+		"dates": "Jun 2015 - Apr 2017",
+		"role": "Digital Marketing Specialist",
+		"company": "Tsinghua University",
+		"description": "• Content Planning: Independently authored and produced high-quality art enlightenment talk show short videos, accumulating over 10 million views. Contributed to interviews with artists and the production of artist microfilms• Knowledge Monetization Conceptualized and executed online courses on professional art techniques and art appreciation. Responsibilities included instructor coordination, artist collaboration, curriculum planning, and collaborative video production. Successfully planned and produced premium content for knowledge-based paid courses, establishing a comprehensive course knowledge framework • Exhibition Planning: Led the planning of notable exhibitions, including the China Hanmo Qingzhou Calligraphy and Painting Annual Conference, the Second National Congress of the China Hard Pen Calligraphy Association, and the Ink Wash Tsinghua Auction",
 		"logo": "/assets/images/experiences/wulian.ico"
 	}
 ]
