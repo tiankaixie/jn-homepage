@@ -2,19 +2,19 @@
 	{
 		"name": "Xiaohongshu",
 		"description": "Art, lifestyle, and creative inspiration — follow my journey on Xiaohongshu.",
-		"image": "/assets/images/projects/placeholder.png",
+		"image": "/assets/images/projects/xiaohongshu.svg",
 		"url": "#"
 	},
 	{
 		"name": "WeChat Official Account",
 		"description": "In-depth articles on art appreciation, creativity, and cross-cultural stories.",
-		"image": "/assets/images/projects/placeholder.png",
+		"image": "/assets/images/projects/wechat.svg",
 		"url": "#"
 	},
 	{
 		"name": "LinkedIn",
 		"description": "Professional profile — let's connect and collaborate.",
-		"image": "/assets/images/projects/placeholder.png",
+		"image": "/assets/images/projects/linkedin.svg",
 		"url": "https://www.linkedin.com/in/jienanwang/"
 	}
 ]
